@@ -1,16 +1,14 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 ### Hi there 👋
 
-<!--
-**sonnguyen9800/sonnguyen9800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Son, Welcome to my Github 😄
 
-Here are some ideas to get you started:
+## Currently working as a Game Developer in Vietnam 😆 Find and play my game in the repo 😝 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I did some projects on Web Dev too. They are also fun 🤠
+
+## Feel free to visit my public projects, glad if they help you ⚡
+
+# [Link to My Linkedin](https://www.linkedin.com/in/sonnguyen9800): 
+
