@@ -4,7 +4,7 @@
 
 - I am Son, Welcome to my Github 😄
 
-- Currently working as a Game Developer in Vietnam 😆 Find and play my game in the repo 😝 
+- Currently working as a part-time Game Developer in Vietnam 😆 Find and play my game in the repo 😝 
 
 - I did some projects on Web Dev and OpenCV too. They are also fun 🤠
 
