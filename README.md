@@ -8,7 +8,7 @@
 
 - I did some projects on Web Dev too. They are also fun 🤠
 
-- Sometime I record my projects and upload them to Youtube. Enjoy my channel 😻
+- Sometime I record my projects and upload them to Youtube. Enjoy my channel. It is mostly in Vietnamese though 😻
 
 - Feel free to visit my public projects, glad if they help you ⚡
 
