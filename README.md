@@ -10,5 +10,5 @@
 
 - Feel free to visit my public projects, glad if they help you ⚡
 
-# [Link to My Linkedin](https://www.linkedin.com/in/sonnguyen9800): 
+*[Link to My Linkedin](https://www.linkedin.com/in/sonnguyen9800): 
 
