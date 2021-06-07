@@ -6,7 +6,7 @@
 
 - Currently working as a Game Developer in Vietnam 😆 Find and play my game in the repo 😝 
 
-- I did some projects on Web Dev too. They are also fun 🤠
+- I did some projects on Web Dev and OpenCV too. They are also fun 🤠
 
 - Sometime I record my projects and upload them to Youtube. Enjoy my channel. It is mostly in Vietnamese though 😻
 
