@@ -8,6 +8,8 @@
 
 - I did some projects on Web Dev too. They are also fun 🤠
 
+- Sometime I record my projects and upload them to Youtube. Enjoy my channel 😻
+
 - Feel free to visit my public projects, glad if they help you ⚡
 
 ![Sonnguyen9800's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnguyen9800)
@@ -21,3 +23,4 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
        style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </p>
+  
