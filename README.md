@@ -12,7 +12,7 @@
 
 - Feel free to visit my public projects, glad if they help you ⚡
 
-![Sonnguyen9800's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnguyen9800&count_private=true)
+![Sonnguyen9800's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnguyen9800&count_private=true&show_icons=true)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sonnguyen9800/" style="text-align: center">
