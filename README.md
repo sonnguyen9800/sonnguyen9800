@@ -12,6 +12,9 @@
 
 - Feel free to visit my public projects, glad if they help you ⚡
 
+- You can visit my website at <a href="https://sonnguyen9800.netlify.app/">here</a> 👋
+
+
 ![Sonnguyen9800's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnguyen9800&count_private=true&show_icons=true)
 
 
