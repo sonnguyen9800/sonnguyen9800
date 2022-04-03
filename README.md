@@ -23,9 +23,5 @@
 <a href="https://www.linkedin.com/in/sonnguyen9800/" style="text-align: center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
        style="max-width: 40%; height: auto" title="Click to enlarge picture" />
-  
-<a href="https://www.youtube.com/channel/UChWA0xyh-zBuxfsc3itSffA" style="text-align: center">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-       style="max-width: 40%; height: auto" title="Click to enlarge picture" />
-</p>
+
   
