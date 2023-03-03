@@ -15,7 +15,7 @@
 - You can visit my website at <a href="https://sonnguyen9800.com/">here</a> 👋
 
 
-![Sonnguyen9800's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=sonnguyen9800&count_private=true&show_icons=true)
+![Sonnguyen9800's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnguyen9800&count_private=true&show_icons=true)
 
 
 <p align="center">
