@@ -14,10 +14,6 @@
 
 - You can visit my website at <a href="https://sonnguyen9800.com/">here</a> 👋
 
-
-![Sonnguyen9800's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnguyen9800&&show_icons=true)
-
-
 <p align="center">
 <a href="https://www.linkedin.com/in/sonnguyen9800/" style="text-align: center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
