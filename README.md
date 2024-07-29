@@ -28,5 +28,5 @@
 ### SisyphusLab 💻 
 
 Since Dec 2023, I founded a game/tech company named SisyphusLab. Here are some of our public library
-- https://github.com/sonnguyen9800/Sisyphus-Framework
-- https://github.com/sonnguyen9800/SisyphusTools
+- <a href="https://github.com/sonnguyen9800/Sisyphus-Framework">Sisyphus-Framework</a>
+- <a href="https://github.com/sonnguyen9800/SisyphusTools">Sisyphus Tools</a>
