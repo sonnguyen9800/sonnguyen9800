@@ -24,3 +24,9 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
        style="max-width: 40%; height: auto" title="Click to enlarge picture" />
 </p>
+---
+
+From Dec 2023, I founded a game/tech company named SisyphusLab, here are some of our public library
+##### SisyphusLab's core library:
+- https://github.com/sonnguyen9800/Sisyphus-Framework
+- https://github.com/sonnguyen9800/SisyphusTools
