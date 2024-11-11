@@ -24,9 +24,11 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
        style="max-width: 40%; height: auto" title="Click to enlarge picture" />
 </p>
-  
+
+
 ### SisyphusLab 💻 
 
 Since Dec 2023, I founded a game/tech company named SisyphusLab. Here are some of our public library
 - <a href="https://github.com/sonnguyen9800/Sisyphus-Framework">Sisyphus-Framework</a>
 - <a href="https://github.com/sonnguyen9800/SisyphusTools">Sisyphus Tools</a>
+- <a href="https://github.com/sonnguyen9800/Roblox-Visibility-Management-Tool">Roblox: Visibility Management Tool</a>
