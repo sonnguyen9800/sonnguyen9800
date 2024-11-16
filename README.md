@@ -28,10 +28,12 @@
 ### Leetcode Challenges
 
 Recently I grow interest in solving Leetcode challenge. I followed Neetcode path guide and started solving simple problems. Each one comes with a small notes of mine to analyse problem and provide further discussion. Visit it <a href="https://github.com/sonnguyen9800/Sisyphus-Framework">here </a>(Solution in Go-lang). This comes with a custom library on <a href="https://github.com/sonnguyen9800/golang-slib">Go</a> 
+
 ### SisyphusLab 💻 
 
 Since Dec 2023, I founded a game/tech company named SisyphusLab. Here are some of our public library
-- <a href="https://github.com/sonnguyen9800/Sisyphus-Framework">Sisyphus-Framework</a>
+- <a href="https://github.com/sonnguyen9800/Sisyphus-GFramework">Sisyphus-Framework</a> A library for Godot Engine, written in C#
+- <a href="https://github.com/sonnguyen9800/Sisyphus-UniFramework">Sisyphus-UniFramework</a> A library for Unity Engine, written in C#
 - <a href="https://github.com/sonnguyen9800/SisyphusTools">Sisyphus Tools</a>
 - <a href="https://github.com/sonnguyen9800/Roblox-Visibility-Management-Tool">Roblox: Visibility Management Tool</a>
 - <a href="https://github.com/sonnguyen9800/Luau-Mode-Setter">Luau Mode Setter</a>
