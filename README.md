@@ -27,7 +27,7 @@
 
 ### Leetcode Challenges
 
-Recently I grow interest in solving Leetcode challenge. I followed Neetcode path guide and started solving simple problems. Each one comes with a small notes of mine to analyse problem and provide further discussion. Visit it <a href="https://github.com/sonnguyen9800/Sisyphus-Framework">here </a>(Solution in Go-lang). This comes with a custom library on <a href="https://github.com/sonnguyen9800/golang-slib">Go</a> 
+Recently I grow interest in solving Leetcode challenge. I followed Neetcode path guide and started solving simple problems. Each one comes with a small notes of mine to analyse problem and provide further discussion. Visit it <a href="https://github.com/sonnguyen9800/leetcode-fighter-go">here </a>(Solution in Go-lang). This comes with a custom library on <a href="https://github.com/sonnguyen9800/golang-slib">Go</a> 
 
 ### SisyphusLab 💻 
 
