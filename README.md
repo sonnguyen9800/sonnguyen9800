@@ -12,7 +12,7 @@
 
 - Feel free to visit my public projects, glad if they help you ⚡
 
-- You can visit my website <a href="https://sonnguyen9800.com/">here</a> 👋
+- You can visit my website <a href="https://sonnguyen9800.com/">here</a> 👋 or check my portfolio <a href="https://sonnguyen9800.com/portfolio/">here</a>  🎨
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sonnguyen9800/" style="text-align: center">
